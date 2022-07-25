@@ -1,0 +1,32 @@
+[tool.poetry]
+name = "excelent"
+version = "0.1.0"
+description = "Easily generate beautiful excel reports in python"
+authors = ["Yosi Frost <yosi_frost@icloud.com>"]
+license = "MIT"
+homepage = "https://github.com/FrostyTheSouthernSnowman/excelent"
+repository = "https://github.com/FrostyTheSouthernSnowman/excelent"
+readme = "README.md"
+keywords = ["excel", "python", "automation", "data"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python"
+]
+
+include = [
+    "LICENSE",
+]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+openpyxl = "^3.0.10"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
