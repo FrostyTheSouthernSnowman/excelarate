@@ -1,11 +1,11 @@
 [tool.poetry]
-name = "excelent"
+name = "excellent"
 version = "0.1.0"
 description = "Easily generate beautiful excel reports in python"
 authors = ["Yosi Frost <yosi_frost@icloud.com>"]
 license = "MIT"
-homepage = "https://github.com/FrostyTheSouthernSnowman/excelent"
-repository = "https://github.com/FrostyTheSouthernSnowman/excelent"
+homepage = "https://github.com/FrostyTheSouthernSnowman/excellent"
+repository = "https://github.com/FrostyTheSouthernSnowman/excellent"
 readme = "README.md"
 keywords = ["excel", "python", "automation", "data"]
 classifiers = [

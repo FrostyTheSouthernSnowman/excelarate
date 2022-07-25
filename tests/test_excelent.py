@@ -1,4 +1,4 @@
-from excelent import __version__
+from excellent import __version__
 
 
 def test_version():
