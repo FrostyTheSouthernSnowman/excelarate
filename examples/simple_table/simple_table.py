@@ -1,4 +1,4 @@
-from excellent import SpreadSheet
+from excelerate import SpreadSheet
 
 sheet = SpreadSheet("Create table example")
 sheet.add_dict({"some": "data", 1: "number keys", "number values": 4, "lists": [

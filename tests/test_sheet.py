@@ -1,4 +1,4 @@
-from excellent._sheet import SpreadSheet
+from excelerate._sheet import SpreadSheet
 
 
 def test_spreadsheet_init():

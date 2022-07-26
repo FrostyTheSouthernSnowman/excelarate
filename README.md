@@ -1,2 +1,3 @@
-# Excellent
-Create excellent excel spreadsheets all from the comfort of python.
+# Excelerate
+
+Accelerate your project with beautiful excel reports
